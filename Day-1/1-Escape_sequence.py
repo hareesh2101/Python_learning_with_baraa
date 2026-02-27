@@ -34,7 +34,10 @@
 
 # print("Your are learning Python\n  - python Basics \n  - Data Engineering \n  - AI")
 
-print("""your are learning python:
-      \t- python basics
-      \t- Data Engenering
-      \t- AI""")
+# print("""your are learning python:
+#       \t- python basics
+#       \t- Data Engenering
+#       \t- AI""")
+
+
+

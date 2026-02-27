@@ -17,6 +17,9 @@ print(f'hello {user_name} Welocme..')
 # commnets - this are non functional lines of codes used for describing the code steps/ implimentation like line number -1, 3,8 12
 
 # hardcoded
-
+name = 'harish'
+print(f'hello {name} welcome to python class')
 
 # Dynamic
+user_name = input('enter your name ')
+print(f'hello {user_name} Welocme..')

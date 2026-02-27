@@ -12,6 +12,7 @@ print(f' i am {name} from {loc}')
 print(f'{name} is learnong {lang}')
 
 
+
 print("*"*5,"Excersice","*"*5)
 # info@datawithbaraa.com
 # support@datawithbaraa.com
@@ -21,3 +22,4 @@ E_mail = "datawithbaraa.com"
 print(f'info@{E_mail}')
 print(f"support@{E_mail}")
 print(f"www.{E_mail}")
+

@@ -9,3 +9,6 @@ name = input('Enter name :')
 loc = "India"
 
 print(f'Hello i am {name} from {loc}')
+
+
+
